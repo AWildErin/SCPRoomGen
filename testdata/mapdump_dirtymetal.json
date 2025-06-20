@@ -1,0 +1,2928 @@
+[
+  [
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 1,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 2,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 4,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 5,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 6,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 7,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 8,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 9,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 10,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 11,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 12,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 13,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 14,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 15,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 16,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 0,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "dimension1499",
+      "PosX": 1,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 1,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 1,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 2,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 4,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 5,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 6,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 7,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 8,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 9,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 10,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 11,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 12,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room1archive",
+      "PosX": 1,
+      "PosY": 13,
+      "GridType": 1,
+      "RoomType": 1,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 14,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 15,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 16,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 1,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 2,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "endroom",
+      "PosX": 2,
+      "PosY": 1,
+      "GridType": 1,
+      "RoomType": 1,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "room2cz3",
+      "PosX": 2,
+      "PosY": 2,
+      "GridType": 2,
+      "RoomType": 3,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 2,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 2,
+      "PosY": 4,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 2,
+      "PosY": 5,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 2,
+      "PosY": 6,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "008",
+      "PosX": 2,
+      "PosY": 7,
+      "GridType": 1,
+      "RoomType": 1,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 2,
+      "PosY": 8,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2cpit",
+      "PosX": 2,
+      "PosY": 9,
+      "GridType": 2,
+      "RoomType": 3,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "tunnel",
+      "PosX": 2,
+      "PosY": 10,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "tunnel",
+      "PosX": 2,
+      "PosY": 11,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "checkpoint1",
+      "PosX": 2,
+      "PosY": 12,
+      "GridType": 255,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room4info",
+      "PosX": 2,
+      "PosY": 13,
+      "GridType": 4,
+      "RoomType": 5,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2tesla_lcz",
+      "PosX": 2,
+      "PosY": 14,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2_5",
+      "PosX": 2,
+      "PosY": 15,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "lockroom",
+      "PosX": 2,
+      "PosY": 16,
+      "GridType": 2,
+      "RoomType": 3,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 2,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 2,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 3,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 3,
+      "PosY": 1,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room860",
+      "PosX": 3,
+      "PosY": 2,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 3,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 3,
+      "PosY": 4,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2ccont",
+      "PosX": 3,
+      "PosY": 5,
+      "GridType": 2,
+      "RoomType": 3,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "checkpoint2",
+      "PosX": 3,
+      "PosY": 6,
+      "GridType": 255,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "room4pit",
+      "PosX": 3,
+      "PosY": 7,
+      "GridType": 4,
+      "RoomType": 5,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2pipes2",
+      "PosX": 3,
+      "PosY": 8,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room3tunnel",
+      "PosX": 3,
+      "PosY": 9,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 3,
+      "PosY": 10,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 3,
+      "PosY": 11,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 3,
+      "PosY": 12,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room1123",
+      "PosX": 3,
+      "PosY": 13,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 3,
+      "PosY": 14,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 3,
+      "PosY": 15,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "room2closets",
+      "PosX": 3,
+      "PosY": 16,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 3,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 3,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 4,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "endroom",
+      "PosX": 4,
+      "PosY": 1,
+      "GridType": 1,
+      "RoomType": 1,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "room3servers2",
+      "PosX": 4,
+      "PosY": 2,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 4,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 4,
+      "PosY": 4,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2offices",
+      "PosX": 4,
+      "PosY": 5,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 4,
+      "PosY": 6,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room035",
+      "PosX": 4,
+      "PosY": 7,
+      "GridType": 1,
+      "RoomType": 1,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 4,
+      "PosY": 8,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2tesla_hcz",
+      "PosX": 4,
+      "PosY": 9,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 4,
+      "PosY": 10,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 4,
+      "PosY": 11,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 4,
+      "PosY": 12,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room3",
+      "PosX": 4,
+      "PosY": 13,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room205",
+      "PosX": 4,
+      "PosY": 14,
+      "GridType": 1,
+      "RoomType": 1,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 4,
+      "PosY": 15,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "room2testroom2",
+      "PosX": 4,
+      "PosY": 16,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 4,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 4,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 5,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 5,
+      "PosY": 1,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2z3",
+      "PosX": 5,
+      "PosY": 2,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 5,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 5,
+      "PosY": 4,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2poffices",
+      "PosX": 5,
+      "PosY": 5,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 5,
+      "PosY": 6,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 5,
+      "PosY": 7,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 5,
+      "PosY": 8,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room513",
+      "PosX": 5,
+      "PosY": 9,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2tunnel",
+      "PosX": 5,
+      "PosY": 10,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2nuke",
+      "PosX": 5,
+      "PosY": 11,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "checkpoint1",
+      "PosX": 5,
+      "PosY": 12,
+      "GridType": 255,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room3",
+      "PosX": 5,
+      "PosY": 13,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 5,
+      "PosY": 14,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 5,
+      "PosY": 15,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "room2storage",
+      "PosX": 5,
+      "PosY": 16,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 5,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 5,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 6,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 6,
+      "PosY": 1,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "medibay",
+      "PosX": 6,
+      "PosY": 2,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 6,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 6,
+      "PosY": 4,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room3z3",
+      "PosX": 6,
+      "PosY": 5,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "checkpoint2",
+      "PosX": 6,
+      "PosY": 6,
+      "GridType": 255,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "room3tunnel",
+      "PosX": 6,
+      "PosY": 7,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "tunnel",
+      "PosX": 6,
+      "PosY": 8,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room3tunnel",
+      "PosX": 6,
+      "PosY": 9,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 6,
+      "PosY": 10,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 6,
+      "PosY": 11,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 6,
+      "PosY": 12,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2gw",
+      "PosX": 6,
+      "PosY": 13,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 6,
+      "PosY": 14,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "914",
+      "PosX": 6,
+      "PosY": 15,
+      "GridType": 1,
+      "RoomType": 1,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room3_3",
+      "PosX": 6,
+      "PosY": 16,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 6,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 6,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 7,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 7,
+      "PosY": 1,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2z3",
+      "PosX": 7,
+      "PosY": 2,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 7,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 7,
+      "PosY": 4,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2z3",
+      "PosX": 7,
+      "PosY": 5,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 7,
+      "PosY": 6,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "coffin",
+      "PosX": 7,
+      "PosY": 7,
+      "GridType": 1,
+      "RoomType": 1,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 7,
+      "PosY": 8,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room049",
+      "PosX": 7,
+      "PosY": 9,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 7,
+      "PosY": 10,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 7,
+      "PosY": 11,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 7,
+      "PosY": 12,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2tesla_lcz",
+      "PosX": 7,
+      "PosY": 13,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 7,
+      "PosY": 14,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 7,
+      "PosY": 15,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "room2scps",
+      "PosX": 7,
+      "PosY": 16,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 7,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 7,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 8,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 8,
+      "PosY": 1,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2poffices2",
+      "PosX": 8,
+      "PosY": 2,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 8,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room1lifts",
+      "PosX": 8,
+      "PosY": 4,
+      "GridType": 1,
+      "RoomType": 1,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "room3servers",
+      "PosX": 8,
+      "PosY": 5,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 8,
+      "PosY": 6,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 8,
+      "PosY": 7,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 8,
+      "PosY": 8,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2tesla_hcz",
+      "PosX": 8,
+      "PosY": 9,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 8,
+      "PosY": 10,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 8,
+      "PosY": 11,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 8,
+      "PosY": 12,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room3storage",
+      "PosX": 8,
+      "PosY": 13,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2scps2",
+      "PosX": 8,
+      "PosY": 14,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2sl",
+      "PosX": 8,
+      "PosY": 15,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room3",
+      "PosX": 8,
+      "PosY": 16,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 8,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 8,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 9,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "exit1",
+      "PosX": 9,
+      "PosY": 1,
+      "GridType": 1,
+      "RoomType": 1,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "room3z3",
+      "PosX": 9,
+      "PosY": 2,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 9,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 9,
+      "PosY": 4,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2cafeteria",
+      "PosX": 9,
+      "PosY": 5,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 9,
+      "PosY": 6,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 9,
+      "PosY": 7,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 9,
+      "PosY": 8,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2pit",
+      "PosX": 9,
+      "PosY": 9,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 9,
+      "PosY": 10,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room079",
+      "PosX": 9,
+      "PosY": 11,
+      "GridType": 1,
+      "RoomType": 1,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "checkpoint1",
+      "PosX": 9,
+      "PosY": 12,
+      "GridType": 255,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room3",
+      "PosX": 9,
+      "PosY": 13,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 9,
+      "PosY": 14,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 9,
+      "PosY": 15,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "room3_2",
+      "PosX": 9,
+      "PosY": 16,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "start",
+      "PosX": 9,
+      "PosY": 17,
+      "GridType": 1,
+      "RoomType": 1,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 9,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 10,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 10,
+      "PosY": 1,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2z3_2",
+      "PosX": 10,
+      "PosY": 2,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 10,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 10,
+      "PosY": 4,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2toilets",
+      "PosX": 10,
+      "PosY": 5,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 10,
+      "PosY": 6,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 10,
+      "PosY": 7,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 10,
+      "PosY": 8,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2pit",
+      "PosX": 10,
+      "PosY": 9,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 10,
+      "PosY": 10,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 10,
+      "PosY": 11,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 10,
+      "PosY": 12,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room3_2",
+      "PosX": 10,
+      "PosY": 13,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2",
+      "PosX": 10,
+      "PosY": 14,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room012",
+      "PosX": 10,
+      "PosY": 15,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room3",
+      "PosX": 10,
+      "PosY": 16,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 10,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 10,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 11,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "gateaentrance",
+      "PosX": 11,
+      "PosY": 1,
+      "GridType": 1,
+      "RoomType": 1,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "room4z3",
+      "PosX": 11,
+      "PosY": 2,
+      "GridType": 4,
+      "RoomType": 5,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "room2offices4",
+      "PosX": 11,
+      "PosY": 3,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "room2servers2",
+      "PosX": 11,
+      "PosY": 4,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "room3z3",
+      "PosX": 11,
+      "PosY": 5,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 11,
+      "PosY": 6,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 11,
+      "PosY": 7,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 11,
+      "PosY": 8,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2shaft",
+      "PosX": 11,
+      "PosY": 9,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 11,
+      "PosY": 10,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room106",
+      "PosX": 11,
+      "PosY": 11,
+      "GridType": 1,
+      "RoomType": 1,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "checkpoint1",
+      "PosX": 11,
+      "PosY": 12,
+      "GridType": 255,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room3",
+      "PosX": 11,
+      "PosY": 13,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 11,
+      "PosY": 14,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 11,
+      "PosY": 15,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "room2_2",
+      "PosX": 11,
+      "PosY": 16,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 11,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 11,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 12,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 12,
+      "PosY": 1,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2offices2",
+      "PosX": 12,
+      "PosY": 2,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 12,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 12,
+      "PosY": 4,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2sroom",
+      "PosX": 12,
+      "PosY": 5,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 12,
+      "PosY": 6,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 12,
+      "PosY": 7,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 12,
+      "PosY": 8,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "tunnel2",
+      "PosX": 12,
+      "PosY": 9,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 12,
+      "PosY": 10,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 12,
+      "PosY": 11,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 12,
+      "PosY": 12,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2_2",
+      "PosX": 12,
+      "PosY": 13,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 12,
+      "PosY": 14,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "room1archive",
+      "PosX": 12,
+      "PosY": 15,
+      "GridType": 1,
+      "RoomType": 1,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room3_2",
+      "PosX": 12,
+      "PosY": 16,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 12,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 12,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 13,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 13,
+      "PosY": 1,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2offices3",
+      "PosX": 13,
+      "PosY": 2,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 13,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 13,
+      "PosY": 4,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2offices",
+      "PosX": 13,
+      "PosY": 5,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 13,
+      "PosY": 6,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 13,
+      "PosY": 7,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 13,
+      "PosY": 8,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "testroom",
+      "PosX": 13,
+      "PosY": 9,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 13,
+      "PosY": 10,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 13,
+      "PosY": 11,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 13,
+      "PosY": 12,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2elevator",
+      "PosX": 13,
+      "PosY": 13,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 13,
+      "PosY": 14,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 13,
+      "PosY": 15,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "room2_2",
+      "PosX": 13,
+      "PosY": 16,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 13,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 13,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 14,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 14,
+      "PosY": 1,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2cz3",
+      "PosX": 14,
+      "PosY": 2,
+      "GridType": 2,
+      "RoomType": 3,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "room2tesla",
+      "PosX": 14,
+      "PosY": 3,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "room2offices",
+      "PosX": 14,
+      "PosY": 4,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "room3offices",
+      "PosX": 14,
+      "PosY": 5,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "",
+      "PosX": 14,
+      "PosY": 6,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 14,
+      "PosY": 7,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 14,
+      "PosY": 8,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2pipes",
+      "PosX": 14,
+      "PosY": 9,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 14,
+      "PosY": 10,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 14,
+      "PosY": 11,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 14,
+      "PosY": 12,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room2doors",
+      "PosX": 14,
+      "PosY": 13,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 14,
+      "PosY": 14,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 14,
+      "PosY": 15,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "room2gw_b",
+      "PosX": 14,
+      "PosY": 16,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 14,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 14,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 15,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 15,
+      "PosY": 1,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 15,
+      "PosY": 2,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 15,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 15,
+      "PosY": 4,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "lockroom2",
+      "PosX": 15,
+      "PosY": 5,
+      "GridType": 2,
+      "RoomType": 3,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "checkpoint2",
+      "PosX": 15,
+      "PosY": 6,
+      "GridType": 255,
+      "RoomType": 2,
+      "RoomZone": 3
+    },
+    {
+      "RoomName": "room2pipes2",
+      "PosX": 15,
+      "PosY": 7,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2servers",
+      "PosX": 15,
+      "PosY": 8,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room966",
+      "PosX": 15,
+      "PosY": 9,
+      "GridType": 3,
+      "RoomType": 4,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2tesla_hcz",
+      "PosX": 15,
+      "PosY": 10,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "room2pit",
+      "PosX": 15,
+      "PosY": 11,
+      "GridType": 2,
+      "RoomType": 2,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "checkpoint1",
+      "PosX": 15,
+      "PosY": 12,
+      "GridType": 255,
+      "RoomType": 2,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "room1162",
+      "PosX": 15,
+      "PosY": 13,
+      "GridType": 2,
+      "RoomType": 3,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 15,
+      "PosY": 14,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 15,
+      "PosY": 15,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "roompj",
+      "PosX": 15,
+      "PosY": 16,
+      "GridType": 1,
+      "RoomType": 1,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 15,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 15,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 1,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 2,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 4,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 5,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 6,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 7,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 8,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 9,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 10,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 11,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 12,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 13,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 14,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 15,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 16,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 16,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "gatea",
+      "PosX": 17,
+      "PosY": 1,
+      "GridType": 0,
+      "RoomType": 1,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 2,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 4,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 5,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 6,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 7,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 8,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 9,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 10,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 11,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 12,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 13,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 14,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 15,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 16,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "pocketdimension",
+      "PosX": 17,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 1,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 17,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ],
+  [
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 0,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 1,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 2,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 3,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 4,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 5,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 6,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 2
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 7,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 8,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 9,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 10,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 11,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 12,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 1
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 13,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 14,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 15,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 16,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 17,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    },
+    {
+      "RoomName": "",
+      "PosX": 18,
+      "PosY": 18,
+      "GridType": 0,
+      "RoomType": 0,
+      "RoomZone": 0
+    }
+  ]
+]
